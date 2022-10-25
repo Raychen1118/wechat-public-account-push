@@ -45,7 +45,7 @@ const USER_CONFIG = {
     },
     {
       name: 'R',
-      id: 'oNv-g6pOhEBZeaBF-LHrs8mYJDJY',
+      id: 'oNv-g6hAKb8gmBLwURr4rMFbJ1mk',
       useTemplateId: 'rBwzyjL9vpgwCZ1lj_Q9Jt0bAyxGmYDQF81PD2swI3U',
       province: '',
       city: '',
